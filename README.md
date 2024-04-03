@@ -1,6 +1,6 @@
 # Tmux config
 
-My custom tmux config with the following features:
+My custom tmux config. Choose the `.conf` file that you prefer and copy (or create if not exist) in `~/.tmux.conf`
 
 ## Keymaps
 
